@@ -17,6 +17,7 @@ To run the program you will need to install:
 * npm (Run npm install in integrated terminal)
 
 ## Usage
+[Deployed Link](https://nathanmvu.github.io/README-Generator/)
 To use program, first install it from the Github repository. Once installed open an integrated terminal for the index.js file and run an npm install. Finally run "node index.js" in the integrated terminal and the program will begin prompting you for information on your README. If you input blank on a question then the section of the README will me skipped.
 
 ## Screenshots
